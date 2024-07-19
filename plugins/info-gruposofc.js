@@ -11,16 +11,16 @@ let str = `𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝙊𝙎 𝙂
 *https://whatsapp.com/channel/0029VaMqK9V4dTnLqEGfQ50w*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟏
-*https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
+https://chat.whatsapp.com/GLmQrA3ehcQD35Yh77xp8x
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟐
-*https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
+https://chat.whatsapp.com/J2HUC0jWtec5wtY3OWyzVb
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟑
-*https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
+https://chat.whatsapp.com/CicweFhXWKcFpBSncB4bns
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟒
-*https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
+https://chat.whatsapp.com/IpwcAfEpMrRJxXmj3S6qBe
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟓
 *https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
