@@ -4,28 +4,25 @@ let str = `𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝙊𝙎 𝙂
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 𝙏𝙚 𝙞𝙣𝙫𝙞𝙩𝙤 𝙖 𝙦𝙪𝙚 𝙩𝙚 𝙪𝙣𝙖𝙨 𝙖 𝙡𝙖 𝘾𝙤𝙢𝙪𝙣𝙞𝙙𝙖𝙙 𝙈𝙪𝙣𝙙𝙤𝘽𝙤𝙩.
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✅ 𝙂𝙍𝙐𝙋𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇
+✅ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✨ *Informate de las Novedades!!!*
-🐈 *https://whatsapp.com/channel/0029VaMqK9V4dTnLqEGfQ50w*
+*Informate de las Novedades!!!*
+
+*https://whatsapp.com/channel/0029VaMqK9V4dTnLqEGfQ50w*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-🐈 *https://whatsapp.com/channel/0029VaMqK9V4dTnLqEGfQ50w*
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
-🐈 *https://whatsapp.com/channel/0029VaMqK9V4dTnLqEGfQ50w*
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-🐈 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝟏
+𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟏
 *https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-🐈 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝟐
+𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟐
 *https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-🐈 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝟑
+𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟑
 *https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-🐈 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝟒
+𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟒
 *https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-🐈 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝟓
+𝘽𝙤𝙩 𝐆𝐫𝐮𝐩𝐨 𝟓
 *https://chat.whatsapp.com/FkjjdPygRntIhOtbJ7MwkG*
 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
