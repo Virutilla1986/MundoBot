@@ -13,7 +13,7 @@ global.welgata = [tk, ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb, tk
 global.redesMenu = [canal1, canal2, canal3, canal4, soporteGB, grupo1, grupo2, grupo3, grupo4, grupo5, grupo6, md, ig, paypal, yt, asistencia, fb, tk].getRandom()
 global.accountsgb = [canal1, canal2, canal3, canal4, tk, ig, yt, paypal, fb, ths, md, asistencia].getRandom()
 
-global.canalIdGB = ["17272628299629293948@newsletter", "363537282938472@newsletter", "17272628299629293948@newsletter", "363537282938472@newsletter"]
+global.canalIdGB = ["19383871736267288273672@newsletter", "19383871736267288273672@newsletter", "19383871736267288273672@newsletter", "19383871736267288273672@newsletter"]
 global.canalNombreGB = ["MundoBot Novedades", "GB- Actualizaciones", "MundoBot novedades 🤩", "Actualización"]
 global.channelRD = await getRandomChannel()
 
