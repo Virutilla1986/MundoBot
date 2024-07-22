@@ -83,6 +83,8 @@ let str = `
 ⠇ ${lenguajeGB['smsTex17']()}
 
 ╭┄〔 *${wm}* 〕┄⊱
+┊ Estos sonidos fueron añadidos por Punisher, cualquier duda contacten en el...
+┊
 ┊ 🔊 *La que se a vecina castellano* 🔊
 ┊
 ┊ ∘ 🆕 *_Espartaco_*
