@@ -6,6 +6,102 @@ let chat = global.db.data.chats[m.chat]
 if (chat.isBanned) return
 global.db.data.users[m.sender].money += 50
 global.db.data.users[m.sender].exp += 50  
+
+
+
+
+//sonido exclusivo MundoBot  
+
+//la que se a vecina sonido castellano >>         
+if (/^Espartaco$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg2NDY3MDhf/Amador%20Ribas%20-%20Espartaco.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}   
+    
+if (/^Mandanga style$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2MzRf/Amador%20Ribas%20-%20mandanga%20style.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}
+
+if (/^Asomate a mi salami$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2Mzdf/Amador%20Ribas%20-%20Mandanga%20villancicos.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}    
+            
+if (/^merengue merengue$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2Mzlf/Amador%20Ribas%20-%20Merengue%20merengue.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })} 
+
+if (/^mira la abuelita$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2NDFf/Amador%20Ribas%20-%20mira%20el%20abuelita.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}   
+    
+if (/^No toques$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2NDJf/Amador%20Ribas%20-%20Porque%20tocas.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}    
+    
+if (/^Que viene$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2NDNf/Amador%20Ribas%20-%20Que%20viene%20que%20viene.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}   
+
+if (/^Hacia Maite va$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2NDRf/Amador%20Ribas%20-%20Salami.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}    
+    
+if (/^Te voy a poner fina$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2NDVf/Amador%20Ribas%20-%20Te%20voy%20a%20poner%20fina%20filipina.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}    
+    
+if (/^Que bueno soy$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2NDZf/Antonio%20Recio%20-%20Que%20culito%20tengo.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}    
+
+if (/^huevón huevón huevón$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg4Nzg1MjJf/huev%C3%B3n%20huev%C3%B3n%20huev%C3%B3n.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}
+
+if (/^meminas la moral$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2Mzhf/Antonio%20Recio%20-%20Meminas%20la%20moral.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}    
+    
+if (/^donde estabas$/i.test(m.text) && chat.audios) {  
+if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
+let vn = 'https://od.lk/s/NTZfMjg3Mjg2NDdf/Nac%C3%AD%20-%20La%20que%20se%20avecina.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}
+
+
+
+
+
+
+    
+
+
+    
+
+    
     
 if (/^A Bueno master|Bueno master|Bueno Máster|🫂$/i.test(m.text) && chat.audios) {  
 if (!db.data.chats[m.chat].audios && m.isGroup) throw 0    
