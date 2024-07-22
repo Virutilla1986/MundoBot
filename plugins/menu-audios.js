@@ -81,6 +81,65 @@ let str = `
 
 ⠇ *${lenguajeGB['smsTex16']()}* 🔊
 ⠇ ${lenguajeGB['smsTex17']()}
+
+╭┄〔 *${wm}* 〕┄⊱
+┊ 🔊 *La que se a vecina castellano* 🔊
+┊
+┊ ∘ 🆕 *_Espartaco_*
+┊ ∘ 🆕 *_Mandanga style_*
+┊ ∘ 🆕 *_Asomate a mi salami_*
+┊ ∘ 🆕 *_merengue merengue_*
+┊ ∘ 🆕 *_mira la abuelita_*
+┊ ∘ 🆕 *_No toques_*
+┊ ∘ 🆕 *_Que viene_*
+┊ ∘ 🆕 *_Hacia Maite va_*
+┊ ∘ 🆕 *_Te voy a poner fina_*
+┊ ∘ 🆕 *_Que bueno soy_*
+┊ ∘ 🆕 *_huevón huevón huevón_*
+┊ ∘ 🆕 *_meminas la moral_*
+┊ ∘ 🆕 *_donde estabas_*
+┊
+┊ 🔊 *música y sonidos* 🔊
+┊
+┊ ∘ *_Alarma_*
+┊ ∘ *_dj dragón ball_*
+┊ ∘ *_cumpleaños felis_*
+┊ ∘ *_Silbido dragón ball_*
+┊ ∘ *_jumanji_*
+┊ ∘ *_Lobo_*
+┊ ∘ *_Tapion_*
+┊ ∘ *_psicosis_*
+┊ ∘ *_jajaja_*
+┊ ∘ *_soy un nomo_*
+┊ ∘ *_Terminator_*
+┊ ∘ *_un caracol fugaz_*
+┊ ∘ *_la purga infinita_*
+┊ ∘ *_la técnica de Piter pan_*
+┊ ∘ *_los dioses del Olimpo_*
+┊ ∘ *_liando porros_*
+┊ ∘ *_sayonara baby_*
+┊ ∘ *_todo el olimpo caera_*
+┊ ∘ *_Soy tu padre_*
+┊
+┊ 🔊 *sonido latino* 🔊
+┊
+┊ ∘ *_vete a tu casa_*
+┊ ∘ *_carita empapada_*
+┊ ∘ *_hay alguien en el grupo_*
+┊ ∘ *_los pingüinos_*
+┊ ∘ *_maldicion_*
+┊ ∘ *_mangekyo_*
+┊ ∘ *_Mary Jane_*
+┊ ∘ *_depuracion infinita_*
+┊ ∘ *_Que bendición_*
+┊ ∘ *_ta bien_*
+┊ ∘ *_tomboy_*
+┊ ∘ *_ultra instinto_*
+┊ ∘ *_ya vete del cyber_*
+┊ 
+╰┄┄┄┄〔🔊 *1.0.0 A* 🔊〕┄┄⊱
+
+
 ∘ _Noche de paz_
 ∘ _Buenos dias_
 ∘ _Audio hentai_
