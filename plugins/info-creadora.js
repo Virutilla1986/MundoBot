@@ -5,7 +5,7 @@ import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 try{
 let contact, number, ofc, nombre, description, correo, lugar, enlace, biog
-let pp = gataImg
+let pp = './media/menus/Menu4paypal.jpg'
 const cat = `𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
 * ${bot}
 
