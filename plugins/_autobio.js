@@ -8,7 +8,7 @@ if (process.send) { process.send('uptime')
 _muptime = await new Promise(resolve => { process.once('message', resolve) 
 setTimeout(resolve, 2000) }) * 1000}
 let uptime = clockString(_uptime)
-let bio = `${global.packname} ║ ✅ ${uptime} ⌛ ║ ⒼⒷ 𓃠 ${[`#donar #menu #serbot #gruposgb #fantasy  By GLOBAL-GB`, `#estado #menu #jadibot #cuentagatabot 🐈`, `#infobot #owner #ping #fy 💻 By: Global-GB 🐈`].getRandom()}`
+let bio = `mundobot ║ ✅ ${uptime} ⌛ ║ ⒼⒷ 𓃠 ${[`comunidad de bots online`, `si quieres uno entra`, `#infobot #owner #ping #fy 💻 By: Global-GB 🐈`].getRandom()}`
 await this.updateProfileStatus(bio).catch(_ => _)
 await this.updateProfilePicture(gataImg.getRandom()).catch(_ => _)
 setting.status = new Date() * 1
