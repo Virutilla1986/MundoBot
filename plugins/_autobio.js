@@ -9,7 +9,7 @@ _muptime = await new Promise(resolve => { process.once('message', resolve)
 setTimeout(resolve, 2000) }) * 1000}
 let uptime = clockString(_uptime)
 let bio = `𝗕𝗼𝘁: ${[`Mundo𝖡𝗈𝗍-𝖬𝖣 💫`, `Mundo𝖡𝗈𝗍-𝖬𝖣`].getRandom()}                                        
-                                        𝗔𝗰𝘁𝗶𝘃𝗼: ${[`𝖲𝗂 ✅`, `𝖭𝗈 ❎`].getRandom()}                                                𝗢𝘄𝗻𝗲𝗿: ${[`𝖩𝗈𝗌𝗍𝗂𝗇 𝖮𝖿𝗂𝖼𝗂𝖺𝗅 ♨️`, `𝖩𝗈𝗌𝗍𝗂𝗇 ~ 𝖩𝗈𝗌𝗍𝗂𝗇𝖺 😼`].getRandom()}` 
+                                        𝗔𝗰𝘁𝗶𝘃𝗼: ${[`𝖲𝗂 ✅`, `𝖭𝗈 ❎`].getRandom()}                                                𝗢𝘄𝗻𝗲𝗿: ${[`Punisher 😼`].getRandom()}` 
 await this.updateProfileStatus(bio).catch(_ => _)
 setting.status = new Date() * 1
 } 
